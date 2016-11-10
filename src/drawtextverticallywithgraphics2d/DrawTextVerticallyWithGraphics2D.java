@@ -57,7 +57,6 @@ public class DrawTextVerticallyWithGraphics2D extends JFrame{
         this.setDefaultCloseOperation(EXIT_ON_CLOSE);
         this.setLocationRelativeTo(this);
         this.setVisible(true);
-        this.setVisible(true);
     }
     public static void main(String[] args) {
         DrawTextVerticallyWithGraphics2D drawText = new DrawTextVerticallyWithGraphics2D();
